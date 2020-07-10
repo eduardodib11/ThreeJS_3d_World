@@ -1,5 +1,5 @@
 # 3D WORLD
-*Single 3D World whith Three.JS*
+*Single 3D World with Three.JS*
 
 *Um simples HTML com Three.JS para criar um mundo em 3D.*
 
